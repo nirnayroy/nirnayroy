@@ -3,3 +3,4 @@
 - :wink:I am qualified to help you with your Physics assignments or question the nature of reality. Your choice 
 - :man_student:Find me on linkedin(https://www.linkedin.com/in/nirnay-roy-96b796103/), twitter(@NirnayRoy1)
 - :man_scientist:I am looking to collaborate on projects involving NLP and MLOps
+- I am also interested in learning more about Distributed systems and Web3
