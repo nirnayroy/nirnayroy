@@ -18,7 +18,7 @@ I'm a physicist-turned-systems engineer focused on **distributed systems**, **da
 - Experiments in distributed databases, transaction sequencing, and validator-level MEV.
 
 ## 🧰 Tech Stack
-- **Languages:** Rust · Python · TypeScript · SQL
+- **Languages:** Rust · Python · TypeScript · SQL · OCaml
 - **Blockchains & Tools:** Solana · Aptos · Move · Anchor · web3.js · spl-token
 - **Systems:** Distributed DBs · Transaction sequencing · MEV pipelines
 - **ML / AI:** NLP · Statistical methods · Classical ML
