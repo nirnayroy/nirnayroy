@@ -26,8 +26,6 @@ I'm a physicist-turned-systems engineer focused on **distributed systems**, **da
 ## 🌱 Learning Right Now
 - Advanced database internals and storage engines
 - Validator infrastructure and on-chain sequencing
-- Statistical hypothesis testing for robust experiments
-- STAR-format leadership storytelling (for interviews)
 
 ## 🎯 5-Year Vision
 Work at the cutting edge of distributed systems, information theory, game theory, AI, and bioinformatics — collaborating with top researchers and builders to create systems that expand human capability.
