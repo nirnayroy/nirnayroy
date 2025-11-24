@@ -1,7 +1,63 @@
-### Hi there 👋, I am Nirnay Roy, a data scientist looking to help companies get the most out of their datasets and dream of building sentient machines in my passtime. 
+# Nirnay Roy 👋
 
-- I am currently learning Rust and Distributed Systems
-- :wink:I am qualified to help you with your Physics assignments or question the nature of reality. Your choice 
-- :man_student:Find me on twitter(@NirnayRoy1)
-- :man_scientist:I am looking to collaborate on projects involving Blockchain, Distributed Consensus and Confidential Computing
+[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nirnayroy.profile)](https://github.com/nirnayroy)
+
+---
+
+## 🚀 About Me
+I'm a physicist-turned-systems engineer focused on **distributed systems**, **databases**, **blockchain infrastructure**, and **machine intelligence**. I enjoy building systems from first principles and solving hard, high-impact problems.
+
+## 🧠 What Drives Me
+- Solve **important problems** that move humanity forward.
+- Build production-grade systems from scratch (e.g. key-value stores, validators, MEV tooling).
+- Explore intersections of **information theory**, **game theory**, **AI**, and **bioinformatics**.
+
+## 🛠️ Current Work & Projects
+- **Custom Transaction Injector** for Jito Bundles (Solana) — validator/MEV tooling.
+- **Decentralized CLOB** (Central Limit Order Book) on Aptos.
+- Experiments in distributed databases, transaction sequencing, and validator-level MEV.
+
+## 🧰 Tech Stack
+- **Languages:** Rust · Python · TypeScript · SQL
+- **Blockchains & Tools:** Solana · Aptos · Move · Anchor · web3.js · spl-token
+- **Systems:** Distributed DBs · Transaction sequencing · MEV pipelines
+- **ML / AI:** NLP · Statistical methods · Classical ML
+
+## 🌱 Learning Right Now
+- Advanced database internals and storage engines
+- Validator infrastructure and on-chain sequencing
+- Statistical hypothesis testing for robust experiments
+- STAR-format leadership storytelling (for interviews)
+
+## 🎯 5-Year Vision
+Work at the cutting edge of distributed systems, information theory, game theory, AI, and bioinformatics — collaborating with top researchers and builders to create systems that expand human capability.
+
+## 💬 Background & Personal Notes
+I transitioned from data science after realizing I wanted to build foundational systems rather than produce generic AI products. A fraud incident in April 2024 reshaped my perspective on security, trust, and resilience — and motivated me to focus on meaningful technical problems and personal growth.
+
+## 📊 GitHub Stats
+
+![Nirnay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirnayroy&show_icons=true&hide_border=true&theme=tokyonight)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirnayroy&layout=compact&hide_border=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nirnayroy&theme=tokyonight&hide_border=true)
+<!-- Replace `nirnayroy` with your GitHub username if different -->
+
+![Nirnay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirnayroy&show_icons=true&hide_border=true&theme=tokyonight)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirnayroy&layout=compact&hide_border=true&theme=tokyonight)
+
+## 📫 Connect
+- GitHub: [github.com/nirnayroy](https://github.com/nirnayroy)
+- Email: (add your preferred contact email)
+
+---
+
+##### Fun facts
+- I get happiest when building something that actually solves a problem.
+- I enjoy late-night debugging sessions and deep-dive system design.
+- Forever curious about the nature of intelligence and scalable systems.
+
+> *Always exploring. Always building. Always learning.*
 
