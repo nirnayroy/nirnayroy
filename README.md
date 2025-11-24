@@ -10,7 +10,7 @@ I'm a physicist-turned-systems engineer focused on **distributed systems**, **da
 ## 🧠 What Drives Me
 - Solve **important problems** that move humanity forward.
 - Build production-grade systems from scratch (e.g. key-value stores, validators, MEV tooling).
-- Explore intersections of **information theory**, **game theory**, **AI**, and **bioinformatics**.
+- Explore intersections of **distributed systems** and **algorithmic game theory**.
 
 ## 🛠️ Current Work & Projects
 - **Custom Transaction Injector** for Jito Bundles (Solana) — validator/MEV tooling.
@@ -28,7 +28,7 @@ I'm a physicist-turned-systems engineer focused on **distributed systems**, **da
 - Validator infrastructure and on-chain sequencing
 
 ## 🎯 5-Year Vision
-Work at the cutting edge of distributed systems, information theory, game theory, AI, and bioinformatics — collaborating with top researchers and builders to create systems that expand human capability.
+Work at the cutting edge of distributed systems, AI, and blockchain infrastructure — collaborating with top researchers and builders to create systems that expand human capability.
 
 ## 💬 Background & Personal Notes
 I transitioned from data science after realizing I wanted to build foundational systems rather than produce generic AI products. A fraud incident in April 2024 reshaped my perspective on security, trust, and resilience — and motivated me to focus on meaningful technical problems and personal growth.
