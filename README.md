@@ -30,8 +30,6 @@ I'm a physicist-turned-systems engineer focused on **distributed systems**, **da
 ## 🎯 5-Year Vision
 Work at the cutting edge of distributed consensus, AI, and blockchain infrastructure — collaborating with top researchers and builders to create systems that expand human capability.
 
-## 💬 Background & Personal Notes
-I transitioned from data science after realizing I wanted to build foundational systems rather than produce generic AI products. A fraud incident in April 2024 reshaped my perspective on security, trust, and resilience — and motivated me to focus on meaningful technical problems and personal growth.
 
 ## 📊 GitHub Stats
 
