@@ -42,7 +42,7 @@ I transitioned from data science after realizing I wanted to build foundational 
 
 ## 📫 Connect
 - GitHub: [github.com/nirnayroy](https://github.com/nirnayroy)
-- Email: (add your preferred contact email)
+- Email: nirnayroy1012@gmail.com
 
 ---
 
