@@ -39,7 +39,7 @@ I transitioned from data science after realizing I wanted to build foundational 
 
 ![Nirnay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirnayroy&show_icons=true&hide_border=true&theme=tokyonight)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirnayroy&hide=JupyterNotebook&layout=compact&hide_border=true&theme=tokyonight)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirnayroy&hide=Jupyter-Notebook&layout=compact&hide_border=true&theme=tokyonight)
 
 
 ## 📫 Connect
