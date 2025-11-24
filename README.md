@@ -3,5 +3,5 @@
 - I am currently learning Rust and Distributed Systems
 - :wink:I am qualified to help you with your Physics assignments or question the nature of reality. Your choice 
 - :man_student:Find me on twitter(@NirnayRoy1)
-- :man_scientist:I am looking to collaborate on projects involving NLP, MLOps, Distributed Systems and Confidential Computing
+- :man_scientist:I am looking to collaborate on projects involving Blockchain, Distributed Consensus and Confidential Computing
 
