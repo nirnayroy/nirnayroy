@@ -41,12 +41,6 @@ I transitioned from data science after realizing I wanted to build foundational 
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirnayroy&layout=compact&hide_border=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nirnayroy&theme=tokyonight&hide_border=true)
-<!-- Replace `nirnayroy` with your GitHub username if different -->
-
-![Nirnay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirnayroy&show_icons=true&hide_border=true&theme=tokyonight)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirnayroy&layout=compact&hide_border=true&theme=tokyonight)
 
 ## 📫 Connect
 - GitHub: [github.com/nirnayroy](https://github.com/nirnayroy)
